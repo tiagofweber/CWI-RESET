@@ -1,1 +1,1 @@
-run = "node funcoes.js"
+run = "node verificarAposentadoria.js"
