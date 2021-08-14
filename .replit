@@ -1,1 +1,1 @@
-run = "node apresentacao.js"
+run = "node operadores.js"
